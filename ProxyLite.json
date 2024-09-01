@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "weixinsxy.com",
+        "wxapp.tc.qq.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".weixinsxy.com",
+        ".wxapp.tc.qq.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "cherrytv",
+        "cherr"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "103.77.241.81/32",
+        "162.62.163.63/32"
+      ]
+    }
+  ]
+}
